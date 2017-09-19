@@ -1,0 +1,3 @@
+[submodule "celt"]
+	path = celt
+	url = https://git.xiph.org/celt.git
